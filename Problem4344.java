@@ -33,7 +33,7 @@ public class Problem4344 {
 				}
 			}
 			System.out.printf("%.3f", 100.0 * cnt / num2);
-            System.out.println("%");	
+            		System.out.println("%");	
 		}	
 	}
 }
